@@ -1,0 +1,14 @@
+.super-click{
+    background-color: black;
+    color: white;
+}
+
+.mega-click{
+    background-color: yellow;
+}
+
+.super-click
+.mega-click{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
